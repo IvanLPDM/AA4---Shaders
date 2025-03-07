@@ -87,7 +87,8 @@ Material:
     m_Floats:
     - _Alpha: 1
     - _AlphaClip: 0
-    - _Blend: 0.266
+    - _Blend: 0.5
+    - _Blend_por_defecto: 1
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -100,17 +101,17 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Intersection_Depth: -0.12
-    - _Lineas_frecuence: 5.41
+    - _Intersection_Depth: -0.1
+    - _Lineas_frecuence: 5
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _Power_glow: 3.97
+    - _Power_glow: 5.32
     - _Power_glow_color: 2.93
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _ScanLine_speed: 1.08
+    - _ScanLine_speed: 0.2
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
