@@ -68,6 +68,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_51e344d14fe54677a8d62799ef10b949_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: a419dec3823b1ee4b8b22166cbe731e5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_903d532ec30d4e14b950326c6e4092ae_Texture_1_Texture2D:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -104,7 +108,7 @@ Material:
     - _Depth_Range: 4.07
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Distorsion_Amount: 0.000001
+    - _Distorsion_Amount: 25.19
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
@@ -121,7 +125,7 @@ Material:
     - _Normal_Animation_Radius: 3
     - _Normal_Animation_Speed: 0.01
     - _Normal_Scale: 50
-    - _Normal_Strength: 56.75
+    - _Normal_Strength: 50
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
